@@ -1,0 +1,80 @@
+body{
+  background-color: rgb(54, 46, 46);
+  text-align: center;
+}
+.LOL{
+  border-radius: 20px;
+  height: 30px;
+  width: 200px;
+
+ 
+}
+.LOL1{
+  border-radius: 20px;
+  cursor: pointer;
+  background-color:brown;
+  width: 64px;
+  height: 38px;
+  margin-left: 15px;
+  color: white;
+  
+}
+.LOL1:hover{
+  background-color: antiquewhite;
+  color: brown;
+}
+.p1{
+  position: absolute;
+  left: 450px;
+  bottom: 350px;
+  font-size: 40px;
+}
+.p2{
+  position: absolute;
+  left: 630px;
+  bottom: 348px;
+  font-size: 40px;
+
+}
+.p3{
+  position: absolute;
+  left: 800px;
+  bottom: 350px;
+  font-size: 40px;
+
+}
+.icon3{
+  position: absolute;
+  left: 55px;
+  bottom: 90px;
+  
+}
+.sun{
+  color: yellow;
+}
+.cloud{
+  color: white;
+}
+.pos{
+  position: absolute;
+  color: red;
+  display: none;
+  bottom: 65px;
+  right: 60px;
+}
+.txt{
+  color: white;
+}
+.high {
+  color: red;
+}
+
+.low{
+  color: skyblue;
+}
+.nrml{
+  color: white;
+}
+.rain{
+  color: skyblue;
+}
